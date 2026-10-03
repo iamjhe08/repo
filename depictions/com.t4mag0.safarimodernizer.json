@@ -13,6 +13,17 @@
      "markdown": "Makes today's websites work, and look modern, in Safari on iOS 15, and in other browsers like iCab, Firefox, Chrome, Brave, Edge and DuckDuckGo.\n\n- Adds newer JavaScript and web features that iOS 15 is missing\n- Rewrites modern CSS so pages look right\n- Fixes scripts Safari 15 can't read\n- Per-site settings and a log panel: hold two fingers on a page for 2 seconds\n\nFree and open source (MIT). Only tested on iOS 15."
     },
     {
+     "class": "DepictionScreenshotsView",
+     "itemCornerRadius": 10,
+     "itemSize": "{300, 238}",
+     "screenshots": [
+      {
+       "url": "https://iamjhe08.github.io/repo/screenshots/before-after.jpg",
+       "accessibilityText": "Google in Safari on iOS 15, before and after SafariModernizer"
+      }
+     ]
+    },
+    {
      "class": "DepictionSeparatorView"
     },
     {
