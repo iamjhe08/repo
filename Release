@@ -1,0 +1,19 @@
+Origin: T4MAG0's Repo
+Label: T4MAG0's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Free and open source tweaks by T4MAG0
+Date: Sat, 03 Oct 2026 17:30:57 UTC
+MD5Sum:
+ b0204c3950e22336065d448a1c427cf7 3300 Packages
+ b39ff0862dc88df6f13d1424baf4e164 876 Packages.gz
+ 85c85a0b25ac42e65e87263b419dbd9a 1116 Packages.bz2
+ 209454eacb510bcd7ff2461661732ed4 928 Packages.xz
+SHA256:
+ f90cf8f7743816b6020713c5778f54c66d5b16208e320691c2ad38de20436f89 3300 Packages
+ e346d76d7f54e809183680cdd3e6bb534ca2698a2c3b06303f1280df586b7871 876 Packages.gz
+ 44f3bbb056460c4f980a91cbbd1ebaac62e0a210f1d9942811a62217396e6350 1116 Packages.bz2
+ 7915bb478addf802ded744169848e56bd9e4bd2039d06785061c5c1ba3f87754 928 Packages.xz

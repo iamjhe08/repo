@@ -1,0 +1,55 @@
+Package: com.t4mag0.safarimodernizer
+Name: SafariModernizer
+Description: Makes newer websites work and look modern in Safari on iOS 15. Adds modern JavaScript and web features, rewrites modern CSS, works around Safari 15 security-policy bugs, runs sites that need import maps, and identifies as Safari 18.6 so sites send their modern pages. Hold two fingers on a page for 2 seconds (or add #smdebug to the address) to open the log and per-site settings.
+Maintainer: T4MAG0
+Author: T4MAG0
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 16.0)
+Architecture: iphoneos-arm
+Version: 1.0.1
+Installed-Size: 1596
+Filename: debs/com.t4mag0.safarimodernizer_1.0.1_iphoneos-arm.deb
+Size: 195068
+MD5sum: 34969bcdbded62e0d43781758ba72b8b
+SHA1: e6186254566e6bd93eb95decffbf1182f3546cb8
+SHA256: b127922ee7d5996533d36fc31555eb35304b1dcced6b229e7ac0d3bd30d85cd5
+Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.html
+SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.json
+Icon: https://iamjhe08.github.io/repo/CydiaIcon.png
+
+Package: com.t4mag0.safarimodernizer
+Name: SafariModernizer
+Description: Makes newer websites work and look modern in Safari on iOS 15. Adds modern JavaScript and web features, rewrites modern CSS, works around Safari 15 security-policy bugs, runs sites that need import maps, and identifies as Safari 18.6 so sites send their modern pages. Hold two fingers on a page for 2 seconds (or add #smdebug to the address) to open the log and per-site settings.
+Maintainer: T4MAG0
+Author: T4MAG0
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 16.0)
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 1596
+Filename: debs/com.t4mag0.safarimodernizer_1.0.1_iphoneos-arm64.deb
+Size: 195206
+MD5sum: dded5e4985d85b1ecf0fcf06ce664c32
+SHA1: 54e31dc44ff0abf0c0b534a58483409ba4efdbd8
+SHA256: 47e8a19b9dbb39b899f3fbd9a71c7da366f637747aae8991bc8b00795f704c85
+Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.html
+SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.json
+Icon: https://iamjhe08.github.io/repo/CydiaIcon.png
+
+Package: com.t4mag0.safarimodernizer
+Name: SafariModernizer
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Description: Makes newer websites work and look modern in Safari on iOS 15. Adds modern JavaScript and web features, rewrites modern CSS, works around Safari 15 security-policy bugs, runs sites that need import maps, and identifies as Safari 18.6 so sites send their modern pages. Hold two fingers on a page for 2 seconds (or add #smdebug to the address) to open the log and per-site settings.
+Maintainer: T4MAG0
+Author: T4MAG0
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 16.0)
+Filename: debs/com.t4mag0.safarimodernizer_1.0.1_iphoneos-arm64e.deb
+Size: 195154
+MD5sum: 56165e4fb784c8f8e9297eec65b04fd1
+SHA1: 1af4652b42c3ec6977f19385f552d6e86720ae4a
+SHA256: 2d70579311f32bbd72f4b591291ca52a3d32a5d49c3b84136c731d967dbc7ff0
+Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.html
+SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.safarimodernizer.json
+Icon: https://iamjhe08.github.io/repo/CydiaIcon.png
