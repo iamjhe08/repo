@@ -5,15 +5,19 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Free and open source tweaks by T4MAG0
-Date: Sat, 03 Oct 2026 17:52:51 UTC
+Description: Free and open source tweaks by T4MAG0.
 MD5Sum:
- b24e9d08cdeff6db8eaefcadd12249e4 6601 Packages
- fa1b829a47086c956fde69f698939325 1222 Packages.gz
- e9d6a3285746df0cc4cb13d32a715476 1549 Packages.bz2
- 044f3e61547221df9f29a139cd8e647f 1220 Packages.xz
+ 9e25c423ba0a00f13b21237ea1123c64 8916 Packages
+ cfff5e04773f76126cf3782df6d7f854 2037 Packages.bz2
+ db9988bc9a0cf08d3999d864e38a317c 1690 Packages.gz
+ 4395343add0510a78247d630ca3c9108 1652 Packages.xz
+SHA1:
+ 58ff9c23c1766a701dde855cc4a7cc618ec209a6 8916 Packages
+ 3fbda2a4b617b20792fc0e67923d777f7eec72d1 2037 Packages.bz2
+ 500006d190bf0950901ffe6c8afa62153c77879c 1690 Packages.gz
+ d98a497347c2f850ef027e5bce0ca9e82d8f9046 1652 Packages.xz
 SHA256:
- c7bcb45b0d7b6967521f467a8603f3f6199fa2b2e38ab0c931f9641dda82b0fa 6601 Packages
- 3d580ab132fc6094f4e187a91cb2d1570382f233a397a1f3a2d80d35f5492c8f 1222 Packages.gz
- 6afe0d7912f77ce9ffd21e639c8258734e231958e55ae908a8def505d8090d57 1549 Packages.bz2
- d1931b3a1acb6ec54de7f87a40e6c4e5c3733082be1a60e3a136c06da67098c8 1220 Packages.xz
+ 7c154f38b6b40513fea9aabff026500c62404b05065813227184049a4e56b443 8916 Packages
+ 7bbd2795e646b6cf194d706b43646da46acdb8487d0fa0db47484f197632efc3 2037 Packages.bz2
+ ae7ae063d6f929bfa6da068d8c03ae43a58d4a2bb9bbb3d93809ced052aa29ea 1690 Packages.gz
+ 41115e6e8b2b4e5816ed85b53b6937eb624894fb3ffb916b6e3e7239a8451329 1652 Packages.xz

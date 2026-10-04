@@ -1,0 +1,91 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "headerImage": "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-banner.jpg",
+  "tintColor": "#FF3D68",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{300,200}",
+          "screenshots": [
+            {
+              "url": "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-1.jpg",
+              "accessibilityText": "Home, quality picker and browser"
+            },
+            {
+              "url": "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-2.jpg",
+              "accessibilityText": "Downloading in the browser and the Downloads tab"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Download videos on your iPhone. Paste a link and pick the quality, or open the built-in browser, play any video and tap the Download button on it.\n\n- YouTube and lots of other sites, up to 4K when available\n- Built-in browser with an ad blocker\n- Up to 10 downloads at once, with progress on every screen\n- Saves as MP4 for Photos, or MP3 / M4A for sound only\n- YouTube keeps the original audio language\n- Everything is built in, no extra packages needed\n\nFree and open source. Powered by yt-dlp."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.2.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Works on",
+          "text": "iOS 15 and newer"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "T4MAG0"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Source code",
+          "action": "https://github.com/iamjhe08/VidGrab"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Report a problem",
+          "action": "https://github.com/iamjhe08/VidGrab/issues"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.2.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Now available as a jailbreak package for rootful, rootless and roothide\n- Updates through Sileo"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.1.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- The app tells you when there's an update, with a list of what changed\n- YouTube and Dailymotion no longer show a blank page on iOS 15"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- First release"
+        }
+      ]
+    }
+  ]
+}
