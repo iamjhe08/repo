@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-featured.jpg",
+      "title": "VidGrab",
+      "package": "com.t4mag0.vidgrab",
+      "hideShadow": false
+    }
+  ]
+}
