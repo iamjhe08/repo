@@ -123,7 +123,7 @@ Installed-Size: 91238
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: com.t4mag0.vidgrab_1.2.0_iphoneos-arm.deb
+Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm.deb
 Size: 17981204
 MD5sum: 6a0864a3921bfc63957d9455005cfc7d
 SHA1: b32c716c9e414c284e92626daf0024737e1f3f04
@@ -142,7 +142,7 @@ Installed-Size: 91238
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: com.t4mag0.vidgrab_1.2.0_iphoneos-arm64.deb
+Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm64.deb
 Size: 17975220
 MD5sum: b3d670686525252df7b4b8801a218d8b
 SHA1: 53f68bc80b179fe9bb16f5ca06de9854844abe53
@@ -161,7 +161,7 @@ Installed-Size: 91238
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: com.t4mag0.vidgrab_1.2.0_iphoneos-arm64e.deb
+Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm64e.deb
 Size: 17983176
 MD5sum: db2883c8285cdce2b39e489dd0b5bd18
 SHA1: 25686b9c55dc2b6c9786986f43e5f7f2ecdd8993
