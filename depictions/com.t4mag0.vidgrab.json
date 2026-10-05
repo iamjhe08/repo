@@ -33,7 +33,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.0"
+          "text": "1.3.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -61,6 +61,14 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.3.1"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed the download engine not starting on some jailbroken iOS 15 phones\n- When the engine can't start, the error now shows the exact reason"
+        },
         {
           "class": "DepictionHeaderView",
           "title": "1.3.0"
