@@ -112,58 +112,57 @@ Icon: https://iamjhe08.github.io/repo/CydiaIcon.png
 
 Package: com.t4mag0.vidgrab
 Name: VidGrab
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm
 Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
 Maintainer: T4MAG0
 Author: T4MAG0
 Section: Applications
 Homepage: https://github.com/iamjhe08/VidGrab
-Installed-Size: 91238
+Installed-Size: 91801
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm.deb
-Size: 17981204
-MD5sum: 6a0864a3921bfc63957d9455005cfc7d
-SHA1: b32c716c9e414c284e92626daf0024737e1f3f04
-SHA256: 6b6f31e6b47a9e8adb9b8e422645ca5faa0d358a4c2b571296c44b5b15074885
+Filename: debs/com.t4mag0.vidgrab_1.3.0_iphoneos-arm.deb
+Size: 18109352
+MD5sum: 850fe794ff574d75eca18eebe7028c8d
+SHA1: 7756d751c372f4e7f407d567ca668ce5024f5891
+SHA256: faf38a1eb1a22788426906fee7174e03a585389d9f245926479eda2c1aed77cc
 
 Package: com.t4mag0.vidgrab
 Name: VidGrab
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm64
 Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
 Maintainer: T4MAG0
 Author: T4MAG0
 Section: Applications
 Homepage: https://github.com/iamjhe08/VidGrab
-Installed-Size: 91238
+Installed-Size: 91801
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm64.deb
-Size: 17975220
-MD5sum: b3d670686525252df7b4b8801a218d8b
-SHA1: 53f68bc80b179fe9bb16f5ca06de9854844abe53
-SHA256: 0161f5c3b136a924e0a451e42d1ff4e31f82e05f78e5a0c043ac2f75e166113f
+Filename: debs/com.t4mag0.vidgrab_1.3.0_iphoneos-arm64.deb
+Size: 18104188
+MD5sum: ca61879267eb2b08fdd7d08db5baab86
+SHA1: 1b192af3b7ce486ae2b30479825e0f288bb8ea27
+SHA256: e934c7ebbe3e5bada66e2297cc03b2bd3c29145fa114cd47c0b5f696de194144
 
 Package: com.t4mag0.vidgrab
 Name: VidGrab
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm64e
 Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
 Maintainer: T4MAG0
 Author: T4MAG0
 Section: Applications
 Homepage: https://github.com/iamjhe08/VidGrab
-Installed-Size: 91238
+Installed-Size: 91801
 Depiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.html
 SileoDepiction: https://iamjhe08.github.io/repo/depictions/com.t4mag0.vidgrab.json
 Icon: https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png
-Filename: debs/com.t4mag0.vidgrab_1.2.0_iphoneos-arm64e.deb
-Size: 17983176
-MD5sum: db2883c8285cdce2b39e489dd0b5bd18
-SHA1: 25686b9c55dc2b6c9786986f43e5f7f2ecdd8993
-SHA256: b94ee0cc13c7e6935ba9df1c1b8c9c5f6f898641c8e1ef2a577ab386aa834056
-
+Filename: debs/com.t4mag0.vidgrab_1.3.0_iphoneos-arm64e.deb
+Size: 18102048
+MD5sum: 4684ac4fef156c9b57c66a5e523ce82e
+SHA1: f995ec39b1dbb230a73a258ac0e8f70cee6e0442
+SHA256: ca3c200bae07ea0941e0e35791052a8972f932aa95dd63bb77e4a066c051e6d6
