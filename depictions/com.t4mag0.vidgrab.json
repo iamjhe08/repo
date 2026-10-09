@@ -33,7 +33,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.4"
+          "text": "1.3.3"
         },
         {
           "class": "DepictionTableTextView",
@@ -61,14 +61,6 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "1.3.4"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "## New Features\n- Mini Player: Minimize the video player with the down arrow and keep playback going in a compact bar above the tab bar.\n- Library Music Player: A frosted-glass player featuring album artwork, a progress bar, and playback controls. Swipe left on the cover to view lyrics.\n- Audio Playlists: Create and manage your own playlists using downloaded songs.\n- High-Quality Streaming: Choose your preferred streaming quality directly from Home or the browser, including 2K and 4K.\n- Track List: View the full track list when streaming a playlist and jump straight to any song.\n- Improved Playlist Playback: Shuffle now displays each track's original number. Shuffle, repeat, playback speed, and video on/off preferences are remembered between sessions.\n- Default Download Settings: Set your preferred download quality and format in Settings > Downloads.\n- Recently Saved: Swipe left or right through recently saved content on Home.\n- Lock Screen Controls: Previous and next buttons and album artwork now appear on the Lock Screen during playlist streaming.\n- Files Only Mode: Turn on \"Files only (no Photos)\" in Settings > Downloads to hide every Save to Photos option.\n- Connections per Download: Choose 1 to 10 connections in Settings > Downloads. Lower it if a site blocks downloads.\n## Fixes & Improvements\n- Fixed an issue where some 1080p downloads were saved at 360p.\n- Fixed music playback stopping after a notification sound.\n- Fixed disabled floating bubble options on some jailbroken devices.\n- Fixed YouTube videos not loading in the browser on some iOS 15 devices."
-        },
         {
           "class": "DepictionHeaderView",
           "title": "1.3.3"
