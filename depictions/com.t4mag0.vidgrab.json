@@ -33,7 +33,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.3"
+          "text": "1.3.4"
         },
         {
           "class": "DepictionTableTextView",
@@ -63,11 +63,19 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "1.3.4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## New Features\n- Mini Player: Minimize the video player with the down arrow and keep playback going in a compact bar above the tab bar.\n- Library Music Player: A frosted-glass player featuring album artwork, a progress bar, and playback controls. Swipe left on the cover to view lyrics.\n- Audio Playlists: Create and manage your own playlists using downloaded songs.\n- High-Quality Streaming: Choose your preferred streaming quality directly from Home or the browser, including 2K and 4K.\n- Track List: View the full track list when streaming a playlist and jump straight to any song.\n- Improved Playlist Playback: Shuffle now displays each track's original number. Shuffle, repeat, playback speed, and video on/off preferences are remembered between sessions.\n- Default Download Settings: Set your preferred download quality and format in Settings > Downloads.\n- Recently Saved: Swipe left or right through recently saved content on Home.\n- Lock Screen Controls: Previous and next buttons and album artwork now appear on the Lock Screen during playlist streaming.\n- Files Only Mode: Turn on \"Files only (no Photos)\" in Settings > Downloads to hide every Save to Photos option.\n- Connections per Download: Choose 1 to 10 connections in Settings > Downloads. Lower it if a site blocks downloads.\n## Fixes & Improvements\n- Fixed an issue where some 1080p downloads were saved at 360p.\n- Fixed music playback stopping after a notification sound.\n- Fixed disabled floating bubble options on some jailbroken devices.\n- Fixed YouTube videos not loading in the browser on some iOS 15 devices."
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "1.3.3"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "This update adds a new Library, playlist playback, better download controls, and several improvements across VidGrab.\n\n**Library**\nAll your downloads are now available in one place. Sort your content, including by date added, and save playlists for later.\n\n**Playlists**\nPlay playlists directly in VidGrab with next, previous, shuffle, and repeat controls. You can also save a playlist or download it for offline listening.\n\nTurn off the video while a playlist continues playing using the VidGrab playback banner.\n\n**Downloads**\nPause, resume, or cancel downloads instantly. You can also download an individual track while it's playing.\n\n**Share Sheet**\nSend links directly to VidGrab from other apps using Share → VidGrab.\n\n**Audio Tools**\nEdit audio information and search for cover artwork online.\n\n**Private Vault**\nPrivate Vault 2.0 is now available. Press and hold Downloads for 1.5 seconds to access it.\n\n**Interface**\nUpdated the Home header and refined the overall interface for a cleaner look.\n\n**Fixes**\nImproved playlist transitions and fixed an issue where the keyboard could hide text while editing audio. Also fixed the Save card arrow and playlist selection indicators.\n\n**TrollStore (.tipa)**\n1. Install VidGrab-1.3.3.tipa with TrollStore.\n2. To get the floating bubble over other apps, open VidGrab, go to Settings > Floating progress, and tap Install bubble helper.\n3. Choose TrollStore in the share menu and tap Install. This is a one-time step.\n4. Back in VidGrab, tap Test bubble to check that it works."
+          "markdown": "- Library tab: a new tab between Browse and Downloads with separate Videos and Audio sections, Recently Added, Favorites and Folders. Search, sort by date added, name, size or duration, with the date added shown on every file, grid or list view, and file information.\n- Playlists: copy a playlist link and VidGrab shows a checklist. Pick the videos or tracks to download, or stream them in the player with next, back, shuffle and repeat. Tracks now change smoothly inside the same player. Turn the video off to listen with the VidGrab banner on screen, and save a playlist to open again later without downloading it. You can also download the track that is playing.\n- Share sheet: share a link from Safari, YouTube and other apps with Share > VidGrab.\n- Private Vault 2.0: the vault button is now hidden. Press and hold the word Downloads for 1.5 seconds to open the passcode or Face ID prompt. Folders inside the vault, search inside the vault, import from Photos or Files, and export to Photos, Files or the Downloads section.\n- Audio tools: save audio as MP3, M4A, WAV or FLAC where the source allows it (FLAC only when the source is lossless). Edit title, artist and album, and pick album art from Photos, Files, or find it online. A new Audio section in Settings can find cover art automatically for new audio downloads. WAV and FLAC keep these details in the app only.\n- Pause and resume: pause any download and continue it later. This is separate from the automatic resume after a crash or force close.\n- Cancel now stops a download immediately.\n- Notification permission is asked only once."
         },
         {
           "class": "DepictionHeaderView",
