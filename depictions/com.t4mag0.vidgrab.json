@@ -44,7 +44,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.4a"
+          "text": "1.3.5"
         },
         {
           "class": "DepictionTableTextView",
@@ -74,11 +74,19 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "1.3.5"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## New Features\n- GD Theme: Added a new theme with a true black background and gold accents.\n- Wi-Fi-Only Downloads: Added an option under Settings > Downloads to prevent downloads over mobile data and help conserve your data allowance.\n- Sleep Timer: Automatically stop playback after 15, 30, 45, or 60 minutes, or when the current song or track ends. Available in the Library music player and streaming playlists.\n- Crossfade & Gapless Playback: Blend consecutive songs with crossfade or play them back-to-back without pauses. Configure these options under Settings > Audio.\n- Auto Subtitles for Streaming: Auto subtitles now work during video streaming, in addition to downloaded videos. Some stream types may not support subtitle extraction.\n- Subtitle Customization: Adjust the font size, text color, and background of auto-generated subtitles under Settings > Auto Subtitles.\n- Automatic Watched Video Cleanup: Enable Settings > Downloads > Ask to Delete Finished Videos to be prompted to delete a video when playback ends.\n- iPad Layout: Added an optional wide layout with a side list under Settings > Interface. Changes apply immediately.\n- Haptics & Animations: Added subtle haptic feedback and animations for tabs, buttons, theme changes, and completed downloads. Haptics can be disabled in Settings.\n## Fixes & Improvements\n- Instant Theme Switching: Theme changes now apply immediately without interrupting music or video playback."
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "1.3.4a"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Quick Update\n\n## New Features\n- Themes: Choose from Default, SP, SC, FL, or PR using the palette button on the Home screen. The floating bubble automatically matches your selected theme.\n\n## Fixes & Improvements\n- Fixed an issue causing an oversized dark shadow around the floating bubble.\n- Fixed an issue where the floating bubble failed to reappear after a respring on some jailbroken devices."
+          "markdown": "Quick Update\n\n## New Features\n- Themes: Choose from Default, SP, SC, FL, or PR using the palette button on the Home screen. The floating bubble automatically matches your selected theme.\n- Browser History: A clock button in the browser opens your history with search, swipe to delete and Clear all. The browser's start page also shows the last page you opened.\n\n## Fixes & Improvements\n- Fixed an issue causing an oversized dark shadow around the floating bubble.\n- Fixed an issue where the floating bubble failed to reappear after a respring on some jailbroken devices.\n- Fixed auto subtitles pausing with \"Subtitles paused while the phone cools down\" when the phone was not actually hot."
         },
         {
           "class": "DepictionHeaderView",
