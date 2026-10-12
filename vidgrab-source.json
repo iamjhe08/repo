@@ -1,0 +1,47 @@
+{
+  "name": "VidGrab Source",
+  "identifier": "com.t4mag0.vidgrab.source",
+  "subtitle": "Official VidGrab updates",
+  "description": "The newest VidGrab IPA releases.",
+  "iconURL": "https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png",
+  "website": "https://github.com/iamjhe08/VidGrab",
+  "tintColor": "FF3D68",
+  "sourceURL": "https://iamjhe08.github.io/repo/vidgrab-source.json",
+  "apps": [
+    {
+      "name": "VidGrab",
+      "bundleIdentifier": "com.t4mag0.vidgrab",
+      "developerName": "T4MAG0",
+      "subtitle": "Video downloader for iPhone",
+      "localizedDescription": "Download videos and audio from many sites right on your iPhone. Free and open source.",
+      "iconURL": "https://iamjhe08.github.io/repo/icons/com.t4mag0.vidgrab-512.png",
+      "tintColor": "FF3D68",
+      "screenshotURLs": [
+        "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-1.jpg",
+        "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-2.jpg",
+        "https://iamjhe08.github.io/repo/depictions/screenshots/vidgrab-3.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.3.6a",
+          "buildVersion": "1.3.6a",
+          "date": "2026-10-12",
+          "size": 31081489,
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
+          "localizedDescription": "Language support (Chinese, Spanish, Portuguese, Russian, Indonesian, Japanese, Hindi) and fixes.",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.3.6a",
+      "versionDate": "2026-10-12",
+      "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
+      "size": 31081489,
+      "versionDescription": "Language support (Chinese, Spanish, Portuguese, Russian, Indonesian, Japanese, Hindi) and fixes.",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
