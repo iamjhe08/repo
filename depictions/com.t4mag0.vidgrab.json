@@ -44,7 +44,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.5"
+          "text": "1.3.6"
         },
         {
           "class": "DepictionTableTextView",
@@ -72,6 +72,14 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.3.6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## New Features\n- PB Theme: Added Pitch Black, a true black theme.\n- CB Theme: Added Carbon, a dark grey theme with a carbon fiber background.\n- Playlist Downloads: Choose the quality or format (video or audio: MP3, M4A, WAV, FLAC) for all selected videos before downloading a playlist.\n- Share to Download: Links shared to VidGrab can now start downloading automatically using your default settings. Turn this on or off with Auto-start shared links in Settings > Downloads.\n## Fixes\n- Fixed a shared link downloading twice.\n- Fixed wrong title and thumbnail on playlist downloads."
+        },
         {
           "class": "DepictionHeaderView",
           "title": "1.3.5"
