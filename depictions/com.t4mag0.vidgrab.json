@@ -44,7 +44,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.6a"
+          "text": "1.3.6b"
         },
         {
           "class": "DepictionTableTextView",
@@ -74,11 +74,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "1.3.6a"
+          "title": "1.3.6b"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## New\n- Language Support: Added Chinese, Spanish, Portuguese, Russian, Indonesian, Japanese, and Hindi. Change the language using the globe icon on the Home screen or under Settings > Language. Auto follows your device’s language.\n- Sideload Source: Add VidGrab to Feather, AltStore, and compatible apps using https://iamjhe08.github.io/repo/vidgrab-source.json to receive updates directly.\n## Fixed\n- Fixed a crash on iOS 27.\n- Fixed an issue that caused shared links to download twice.\n- Fixed incorrect titles and thumbnails when downloading playlists."
+          "markdown": "## New\n- Themes: Added Matte Black Rose Gold (MBRG), Monochrome Crimson (MC), and Pink Flow (PF). Pick one with the theme icon on the Home screen.\n## Fixed\n- Fixed updating with TrollStore creating a second VidGrab icon.\n- Fixed shuffle, repeat, and other on/off buttons being hard to see in the PB and CB themes."
         },
         {
           "class": "DepictionHeaderView",
