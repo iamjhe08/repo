@@ -23,20 +23,20 @@
       ],
       "versions": [
         {
-          "version": "1.3.6a",
-          "buildVersion": "1.3.6a",
+          "version": "1.3.6b",
+          "buildVersion": "1.3.6b",
           "date": "2026-10-12",
-          "size": 31081489,
-          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
-          "localizedDescription": "Language support (Chinese, Spanish, Portuguese, Russian, Indonesian, Japanese, Hindi) and fixes.",
+          "size": 31083100,
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6b/VidGrab-1.3.6b.ipa",
+          "localizedDescription": "Three new themes (MBRG, MC, PF) and fixes.",
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.3.6a",
+      "version": "1.3.6b",
       "versionDate": "2026-10-12",
-      "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
-      "size": 31081489,
-      "versionDescription": "Language support (Chinese, Spanish, Portuguese, Russian, Indonesian, Japanese, Hindi) and fixes.",
+      "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6b/VidGrab-1.3.6b.ipa",
+      "size": 31083100,
+      "versionDescription": "Three new themes (MBRG, MC, PF) and fixes.",
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
