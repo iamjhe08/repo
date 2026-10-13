@@ -23,20 +23,20 @@
       ],
       "versions": [
         {
-          "version": "1.3.6b",
-          "buildVersion": "1.3.6b",
+          "version": "1.3.6c",
+          "buildVersion": "1.3.6c",
           "date": "2026-10-12",
-          "size": 31083100,
-          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6b/VidGrab-1.3.6b.ipa",
-          "localizedDescription": "Three new themes (MBRG, MC, PF) and fixes.",
+          "size": 31200926,
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
+          "localizedDescription": "Theme gallery with new presets, fully customizable themes (colors, gradients, photos, textures), backup and restore, a clock and temperature pill in the landscape player, automatic engine updates and a spinning CD cover.",
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.3.6b",
+      "version": "1.3.6c",
       "versionDate": "2026-10-12",
-      "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6b/VidGrab-1.3.6b.ipa",
-      "size": 31083100,
-      "versionDescription": "Three new themes (MBRG, MC, PF) and fixes.",
+      "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
+      "size": 31200926,
+      "versionDescription": "Theme gallery with new presets, fully customizable themes (colors, gradients, photos, textures), backup and restore, a clock and temperature pill in the landscape player, automatic engine updates and a spinning CD cover.",
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
