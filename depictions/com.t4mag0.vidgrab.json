@@ -44,7 +44,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.3.6b"
+          "text": "1.3.6c"
         },
         {
           "class": "DepictionTableTextView",
@@ -74,11 +74,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "1.3.6b"
+          "title": "1.3.6c"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## New\n- Themes: Added Matte Black Rose Gold (MBRG), Monochrome Crimson (MC), and Pink Flow (PF). Pick one with the theme icon on the Home screen.\n## Fixed\n- Fixed updating with TrollStore creating a second VidGrab icon.\n- Fixed shuffle, repeat, and other on/off buttons being hard to see in the PB and CB themes."
+          "markdown": "## New\n- Theme Gallery: Built-in themes and your own themes now sit in one list. Tap the theme button, then tap a theme to use it. New themes: Midnight Blue, Emerald and Sunset.\n- Custom Themes: Make as many as you like. Pick an accent color or type a HEX code, then use a color, gradient, photo or texture as the background. Advanced Colors lets you change text, cards, buttons and more. You can rename, duplicate, delete, export and import your themes.\n- Backup and Restore: Settings > Backup and restore saves your settings, themes and saved playlists to one file, and brings them back later. It replaces Export and Import settings.\n- Clock and Temperature: In the landscape player, a small pill with the time and temperature slides in at the top right when the controls hide. It softens after a few seconds so it does not distract you. Turn it on or off in Settings > Gestures.\n- Automatic Engine Updates: VidGrab can now keep its download engine up to date by itself. You can turn it off in Settings > Engine.\n- Spinning CD Cover: Tap the album art in the music player to turn it into a round CD that spins while the song plays. Tap again to go back. You can turn it off in Settings > Audio.\n- Copy Links: Settings > About now has your Jailbreak repo and Sideload source links with a copy button.\n- Arabic: VidGrab is now available in Arabic. Pick it from the globe button on Home.\n## Improved\n- The music player now remembers your Shuffle and Repeat choices.\n## Fixed\n- VidGrab no longer closes when you open Settings on iOS 27.2 beta."
         },
         {
           "class": "DepictionHeaderView",
